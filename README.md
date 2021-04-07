@@ -1,2 +1,4 @@
-pip install scrapy pymsql pymongo
-python main.py
+```bash
+bash> pip install scrapy pymsql pymongo
+bash> python main.py
+```
